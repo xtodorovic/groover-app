@@ -1,0 +1,21 @@
+{
+    "android": {
+        "defaultConfig": {
+            "available_version" : "1.1",
+            "minSdk": 24,
+            "targetSdk": 33
+        },
+        "productFlavors": {
+            "main": {
+                "available_version" : "1.1",
+                "minSdk": 24,
+                "targetSdk": 33
+            },
+            "afterNougat": {
+                "available_version" : "1.1",
+                "minSdk": 24,
+                "targetSdk": 33
+            }
+        }
+    }
+}
